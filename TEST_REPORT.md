@@ -11,7 +11,7 @@
 8 requests, 18 automated checks, all passing in the final run.
 The collection export and run screenshots are included in this repository.
 
-![Final collection run](screenshots/collection-run.png)
+![Final collection run](screenshots/collection.png.png)
 
 ## Test cases
 
