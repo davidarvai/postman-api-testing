@@ -20,7 +20,7 @@ Automated API tests built with Postman for the public [JSONPlaceholder](https://
 
 The full collection run passes. Details, observations and next steps are in [TEST_REPORT.md](TEST_REPORT.md).
 
-![Collection run results](screenshots/collection-run.png)
+![Collection run results](screenshots/collection-run.png.png)
 
 ## How to run
 
